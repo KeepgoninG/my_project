@@ -1,0 +1,3 @@
+H:\arm6410\led\led_Data\Release\ObjectCode\init.o:	H:\arm6410\led\init.s
+H:\arm6410\led\led_Data\Release\ObjectCode\init.o:	H:\arm6410\led\s3c6410.inc
+H:\arm6410\led\led_Data\Release\ObjectCode\init.o:	H:\arm6410\led\s3c6410_base_regs.inc
